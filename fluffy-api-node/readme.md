@@ -1,13 +1,3 @@
-## Introduction
-
-This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
-
-- https://codewithmosh.com/p/mastering-react
-- https://codewithmosh.com/p/the-complete-node-js-course
-- https://codewithmosh.com/p/asp-net-mvc
-
-This is the implementation of Vidly in Node.js.
-
 ## Setup
 
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
