@@ -46,8 +46,8 @@ If you look at config/default.json, you'll see a property called jwtPrivateKey. 
 
 On Mac:
 
-    export vidly_jwtPrivateKey=yourSecureKey
+    export fluffy_jwtPrivateKey=yourSecureKey
 
 On Windows:
 
-    set vidly_jwtPrivateKey=yourSecureKey
+    set fluffy_jwtPrivateKey=yourSecureKey
